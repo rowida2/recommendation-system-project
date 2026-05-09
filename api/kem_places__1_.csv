@@ -1,0 +1,151 @@
+﻿place_id,place_name,city,category,budget_level,best_season,crowd_level,suitable_for,suitable_age,duration_needed,rating,description
+1,Pyramids of Giza,Cairo,history,medium,winter,crowded,family|couple|solo|friends,teen|adult|senior,4,4.9,The last surviving wonder of the ancient world on the Giza plateau.
+2,Egyptian Museum,Cairo,history,low,any,crowded,family|couple|solo|friends,teen|adult|senior,3,4.7,World's largest collection of ancient Egyptian artifacts.
+3,Karnak Temple,Luxor,history,medium,winter,crowded,family|couple|solo|friends,teen|adult|senior,3,4.8,The largest ancient religious site in the world.
+4,Valley of the Kings,Luxor,history,medium,winter,moderate,couple|solo|friends,teen|adult,4,4.8,Royal burial ground of pharaohs including Tutankhamun.
+5,Abu Simbel Temples,Aswan,history,high,winter,moderate,family|couple|solo|friends,teen|adult|senior,5,4.9,Two massive rock-cut temples built by Ramesses II.
+6,Luxor Temple,Luxor,history,low,winter,crowded,family|couple|solo|friends,teen|adult|senior,2,4.7,Ancient Egyptian temple complex on the east bank of the Nile.
+7,Saqqara Step Pyramid,Cairo,history,medium,winter,quiet,couple|solo|friends,adult,3,4.5,The oldest complete stone building complex in history.
+8,Philae Temple,Aswan,history,medium,winter,moderate,family|couple|solo,teen|adult|senior,2,4.6,"Island temple dedicated to goddess Isis, accessible by boat."
+9,Colossi of Memnon,Luxor,history,low,any,moderate,family|couple|solo|friends,teen|adult|senior,1,4.3,Two massive stone statues of Pharaoh Amenhotep III.
+10,Bibliotheca Alexandrina,Alexandria,history,low,any,moderate,family|couple|solo|friends,teen|adult|senior,3,4.6,Modern revival of the ancient Library of Alexandria.
+11,Medinet Habu Temple,Luxor,history,low,winter,quiet,couple|solo|friends,adult,2,4.5,Mortuary temple of Ramesses III with well-preserved painted reliefs.
+12,Deir el-Bahari (Hatshepsut),Luxor,history,medium,winter,moderate,couple|solo|friends,teen|adult,2,4.6,Mortuary temple of Queen Hatshepsut carved into the cliffs of Deir el-Bahari.
+13,Dendera Temple Complex,Qena,history,medium,winter,quiet,couple|solo|friends,adult,3,4.5,Temple of Hathor with remarkably preserved zodiac ceilings.
+14,Abydos Temple,Sohag,history,medium,winter,quiet,solo|couple,adult,2,4.4,One of Egypt's oldest cities containing the Temple of Seti I.
+15,Edfu Temple,Edfu,history,medium,winter,moderate,family|couple|solo|friends,teen|adult|senior,2,4.5,"Best-preserved ancient Egyptian temple, dedicated to Horus."
+16,Kom Ombo Temple,Kom Ombo,history,low,winter,moderate,family|couple|solo|friends,teen|adult|senior,1,4.4,Unique double temple dedicated to both Sobek and Horus on the Nile bank.
+17,Alexandria Catacombs,Alexandria,history,low,any,moderate,solo|couple|friends,adult,2,4.4,Ancient Roman-Egyptian burial site with underground chambers.
+18,Pompey's Pillar,Alexandria,history,low,any,quiet,solo|couple|friends,teen|adult|senior,1,4.1,Towering Roman triumphal column in the heart of Alexandria.
+19,Qaitbay Citadel,Alexandria,history,low,any,moderate,family|couple|solo|friends,teen|adult|senior,2,4.4,15th-century fortress built on the site of the ancient Lighthouse of Alexandria.
+20,Nubian Museum,Aswan,history,low,any,quiet,solo|couple|friends,adult|senior,2,4.5,Museum celebrating the rich history and culture of the Nubian people.
+21,Grand Egyptian Museum,Cairo,history,high,any,crowded,family|couple|solo|friends,teen|adult|senior,5,4.8,"The world's largest archaeological museum, home to over 100,000 artifacts."
+22,Coptic Museum Cairo,Cairo,history,low,any,quiet,solo|couple|friends,adult|senior,2,4.3,World's largest collection of Coptic Christian art and artifacts.
+23,Ramesseum,Luxor,history,low,winter,quiet,solo|couple|friends,adult,2,4.3,Mortuary temple of Ramesses II with the famous fallen Ozymandias colossus.
+24,Valley of the Queens,Luxor,history,medium,winter,quiet,couple|solo|friends,adult,2,4.4,Burial site of queens and royal children with exquisite painted tombs.
+25,Aswan High Dam,Aswan,history,low,any,moderate,family|solo|friends,teen|adult|senior,1,4.0,"One of the world's largest embankment dams, reshaping modern Egypt."
+26,Kharga Oasis Temples,Kharga,history,medium,winter,quiet,solo|couple,adult,3,4.2,Remote oasis with ancient temples and early Christian monuments.
+27,Tell El-Amarna,Minya,history,medium,winter,quiet,solo|couple,adult,3,4.2,"Ruins of Akhenaten's short-lived capital city, the most important Amarna period site."
+28,Beni Hasan Tombs,Minya,history,low,winter,quiet,solo|couple,adult,2,4.1,Middle Kingdom rock-cut tombs with vivid paintings of daily ancient Egyptian life.
+29,Esna Temple,Esna,history,low,winter,quiet,solo|couple|friends,adult|senior,1,4.2,Roman-era temple to Khnum half-buried below the modern town level.
+30,Abusir Pyramids,Cairo,history,low,winter,quiet,solo|couple,adult,2,4.1,"Fifth Dynasty pyramid complex, quieter and less touristy than Giza."
+31,Dahshur Pyramids,Cairo,history,low,winter,quiet,couple|solo|friends,teen|adult,2,4.3,Bent Pyramid and Red Pyramid — Egypt's first true pyramids with interior access.
+32,Serapeum of Saqqara,Cairo,history,medium,winter,quiet,solo|couple,adult,2,4.4,Underground burial vaults of the sacred Apis bulls carved deep into the rock.
+33,Elephantine Island Ruins,Aswan,history,low,winter,quiet,solo|couple|friends,adult,2,4.2,Ancient island settlement at the first Nile cataract with a Nilometer.
+34,Wadi Natrun Monasteries,Wadi Natrun,history,low,winter,quiet,solo|couple,adult|senior,3,4.3,Group of ancient Coptic monasteries continuously inhabited since the 4th century.
+35,Tanis Archaeological Site,Sharqia,history,low,winter,quiet,solo|couple,adult,2,4.0,Delta city containing royal tombs that rivaled those in the Valley of the Kings.
+36,Sharm El-Sheikh Beach,Sharm El-Sheikh,beach,high,any,crowded,family|couple|friends,teen|adult,8,4.7,World-class diving and snorkeling in crystal Red Sea waters.
+37,Hurghada Beach,Hurghada,beach,medium,any,crowded,family|couple|friends,teen|adult|senior,8,4.5,Popular Red Sea resort with beautiful beaches and water sports.
+38,Marsa Alam Beach,Marsa Alam,beach,medium,any,quiet,couple|solo|friends,adult,8,4.6,Pristine coral reefs and secluded beaches for diving enthusiasts.
+39,Dahab Beach,Dahab,beach,low,any,quiet,solo|friends|couple,teen|adult,8,4.5,Bohemian Red Sea town with a famous laid-back atmosphere and the Blue Hole.
+40,Marsa Matrouh Beach,Marsa Matrouh,beach,low,summer,moderate,family|friends,teen|adult|senior,8,4.4,Mediterranean beach with impossibly turquoise water.
+41,Ain Sokhna Beach,Ain Sokhna,beach,medium,summer,crowded,family|couple,teen|adult|senior,8,4.0,"Convenient Red Sea resort 120 km from Cairo, popular for weekends."
+42,Nuweiba Beach,Nuweiba,beach,low,any,quiet,solo|couple|friends,teen|adult,8,4.3,Tranquil Sinai beach with views of Saudi Arabia and Jordan across the Gulf.
+43,Taba Beach,Taba,beach,medium,any,quiet,couple|friends,adult,8,4.2,"Remote northern Sinai beach where Egypt, Israel, Jordan, and Saudi Arabia meet."
+44,El-Gouna Lagoon Beach,Hurghada,beach,high,any,moderate,couple|friends|family,adult|senior,8,4.6,Upscale resort town on a lagoon system with beautiful private beaches.
+45,Soma Bay Beach,Hurghada,beach,high,any,quiet,couple|friends,adult,8,4.5,Exclusive peninsula resort with world-class kite surfing and golf.
+46,Sahl Hasheesh Beach,Hurghada,beach,high,any,moderate,couple|friends|family,adult|senior,8,4.4,Upmarket planned resort town with pristine beaches south of Hurghada.
+47,Agiba Beach,Marsa Matrouh,beach,low,summer,quiet,solo|couple,adult,6,4.5,"Hidden cove with electric-blue water, only accessible by boat or a rocky path."
+48,Cleopatra Beach,Marsa Matrouh,beach,low,summer,moderate,family|couple|friends,teen|adult|senior,6,4.3,Famous crescent-shaped beach named after Cleopatra's legendary bathing spot.
+49,Ras Sidr Beach,Ras Sidr,beach,low,any,moderate,family|friends,teen|adult,8,4.0,Popular Sinai beach famous for kitesurfing with steady winds year-round.
+50,Port Ghalib Beach,Marsa Alam,beach,high,any,quiet,couple|friends,adult,8,4.4,Modern marina resort with direct access to pristine offshore reefs.
+51,Hamata Islands,Marsa Alam,beach,medium,any,quiet,solo|couple|friends,adult,8,4.7,Remote mangrove-fringed islands with untouched reefs and dugong sightings.
+52,Ras Abu Galom,Dahab,beach,low,any,quiet,solo|friends|couple,teen|adult,6,4.6,Protected lagoon accessible only by camel or boat with stunning coral gardens.
+53,Sharm Old Market Beach,Sharm El-Sheikh,beach,medium,any,crowded,family|couple|friends,teen|adult|senior,6,4.2,Lively beach strip near the old market with beach clubs and watersports.
+54,Paradise Beach Hurghada,Hurghada,beach,medium,any,moderate,family|couple|friends,teen|adult|senior,6,4.1,Glass-bottom boat trips and beach club on a coral island near Hurghada.
+55,Na'ama Bay Beach,Sharm El-Sheikh,beach,high,any,crowded,couple|friends|family,teen|adult|senior,8,4.5,"Sharm's main beach hub with luxury hotels, restaurants, and dive centers."
+56,Khan El-Khalili Bazaar,Cairo,food,low,any,crowded,family|couple|solo|friends,teen|adult|senior,3,4.5,Historic bazaar with street food and authentic Egyptian cuisine since 1382.
+57,Alexandria Seafood District,Alexandria,food,medium,any,moderate,family|couple|friends,adult|senior,2,4.6,Fresh Mediterranean seafood restaurants along the Corniche.
+58,Nubian Village Food Tour,Aswan,food,low,winter,quiet,couple|solo|friends,adult,3,4.4,Traditional Nubian cuisine in a colorful Nile village.
+59,Luxor Local Food Market,Luxor,food,low,any,moderate,solo|couple|friends,teen|adult,2,4.2,Vibrant local market with authentic Upper Egyptian street food.
+60,Zamalek Restaurant Mile,Cairo,food,medium,any,moderate,couple|friends|solo,adult,2,4.5,Cairo's trendiest dining strip on Gezira Island with rooftop Nile views.
+61,Aswan Spice Market,Aswan,food,low,any,moderate,solo|couple|friends,teen|adult|senior,1,4.1,"Colorful market filled with Nubian spices, hibiscus tea, and dried fruits."
+62,Port Said Seafood Walk,Port Said,food,low,any,moderate,family|friends|couple,adult|senior,2,4.2,Famous waterfront for fresh Suez Canal fish and Mediterranean seafood.
+63,Siwa Oasis Organic Farm,Siwa,food,medium,spring,quiet,couple|solo,adult,2,4.4,Organic date and olive farm with traditional Siwan cooking classes.
+64,Mansoura Kunafa Trail,Mansoura,food,low,any,moderate,family|friends|couple,teen|adult|senior,2,4.3,"Delta city famous for the best kunafa in Egypt, baked fresh in street ovens."
+65,Abou Tarek Koshary Cairo,Cairo,food,low,any,crowded,solo|friends|couple,teen|adult|senior,1,4.6,"The legendary koshary restaurant in downtown Cairo, a Cairo institution since 1950."
+66,Borg El-Arab Food Festival,Alexandria,food,medium,summer,crowded,family|friends,teen|adult|senior,3,4.1,Seasonal festival showcasing the best of Alexandria's diverse food culture.
+67,Nile Felucca Dinner Cruise,Cairo,food,medium,any,moderate,couple|friends,adult,3,4.4,Traditional sailing boat dinner on the Nile at sunset through central Cairo.
+68,Dokki Fish Market Cairo,Cairo,food,low,any,crowded,solo|friends|family,adult,2,4.2,Choose your fresh Nile fish and have it cooked on-site with Egyptian spices.
+69,Dahab Bedouin Cooking Class,Dahab,food,medium,any,quiet,solo|couple|friends,adult,3,4.5,Learn to cook traditional Bedouin dishes with a local family in Dahab.
+70,Hurghada Marina Dining Strip,Hurghada,food,medium,any,moderate,couple|friends|family,adult|senior,2,4.3,Waterfront restaurants with international and Egyptian cuisine at the modern marina.
+71,Siwa Oasis Hot Springs,Siwa,wellness,medium,spring,quiet,couple|solo,adult|senior,6,4.8,"Natural hot spring pools in the desert oasis, perfect for relaxation."
+72,Hurghada Spa Resorts,Hurghada,wellness,high,any,quiet,couple|solo,adult|senior,6,4.5,World-class spa centers in luxury Red Sea resorts with thalassotherapy.
+73,Sharm El-Sheikh Wellness Resort,Sharm El-Sheikh,wellness,high,any,quiet,couple|solo,adult|senior,6,4.6,"Premium retreat with yoga, meditation, and holistic treatments by the Red Sea."
+74,Siwa Salt Lake Float,Siwa,wellness,low,spring,quiet,solo|couple|friends,adult,3,4.7,"Natural hyper-saline lake where you float effortlessly, Dead Sea style."
+75,Luxor Yoga Retreat,Luxor,wellness,medium,winter,quiet,solo|couple,adult|senior,6,4.4,Sunrise yoga sessions with views of the Nile and Theban mountains.
+76,Aswan Nile Hammam,Aswan,wellness,low,any,quiet,solo|couple,adult|senior,2,4.3,Traditional Egyptian hammam experience in the heart of Aswan.
+77,Marsa Alam Diving Retreat,Marsa Alam,wellness,medium,any,quiet,solo|couple|friends,adult,6,4.6,Holistic underwater therapy retreat with meditation and deep-sea diving.
+78,Cairo Rooftop Meditation,Cairo,wellness,low,any,quiet,solo|couple,adult,2,4.2,Morning meditation sessions on rooftops overlooking the city and pyramids.
+79,Nubian Wellness Village,Aswan,wellness,medium,winter,quiet,couple|solo,adult|senior,4,4.5,Eco-lodge wellness retreat on a Nile island with Nubian healing traditions.
+80,Ain El-Sira Lake Cairo,Cairo,wellness,low,any,quiet,solo|couple,adult|senior,2,3.9,Historic spring-fed lake in old Cairo used for relaxation since pharaonic times.
+81,Fayoum Lotus Lake,Fayoum,wellness,low,spring,quiet,couple|solo,adult|senior,3,4.3,"Serene oasis lake surrounded by lotus flowers, perfect for mindful walks."
+82,Dahab Sound Bath Retreat,Dahab,wellness,medium,any,quiet,solo|couple,adult,4,4.4,Tibetan bowl sound healing sessions in an open-air desert setting.
+83,Al-Azhar Mosque,Cairo,religious,low,any,crowded,family|couple|solo,teen|adult|senior,2,4.7,"One of the oldest mosques in Cairo, over 1000 years of Islamic scholarship."
+84,Hanging Church (Cairo),Cairo,religious,low,any,moderate,family|couple|solo,teen|adult|senior,1,4.5,"One of the oldest Coptic churches in Egypt, built above a Roman gatehouse."
+85,Saint Catherine Monastery,South Sinai,religious,medium,spring,moderate,solo|couple|friends,adult|senior,6,4.8,One of the oldest working Christian monasteries in the world.
+86,Mohamed Ali Mosque (Citadel),Cairo,religious,low,any,crowded,family|couple|solo|friends,teen|adult|senior,2,4.6,Magnificent Ottoman mosque inside the Saladin Citadel.
+87,Amr Ibn Al-As Mosque,Cairo,religious,low,any,moderate,family|solo|couple,teen|adult|senior,1,4.4,"The first mosque built in Egypt and Africa, 641 AD."
+88,Ben Ezra Synagogue,Cairo,religious,low,any,quiet,solo|couple,adult|senior,1,4.3,One of the oldest synagogues in Egypt.
+89,Abu Mena Ruins,Alexandria,religious,low,winter,quiet,solo|couple,adult,2,4.1,UNESCO World Heritage Site early Christian pilgrimage center.
+90,Saint Mark's Cathedral,Alexandria,religious,low,any,quiet,family|couple|solo,adult|senior,1,4.4,One of the most important Coptic Orthodox cathedrals in Egypt.
+91,Imam Hussain Mosque,Cairo,religious,low,any,crowded,family|solo,teen|adult|senior,1,4.5,Shia mosque next to Khan El-Khalili housing the head of Imam Hussain.
+92,Mosque of Ibn Tulun,Cairo,religious,low,any,quiet,solo|couple|friends,adult|senior,1,4.5,"One of the oldest and largest mosques in Cairo, built 876-879 AD."
+93,Wadi El Natrun Monasteries,Wadi Natrun,religious,low,winter,quiet,solo|couple,adult|senior,4,4.3,Ancient Coptic desert monasteries still inhabited by monks.
+94,Sidi Bishr Mosque,Alexandria,religious,low,any,moderate,family|solo,teen|adult|senior,1,4.1,Beloved beachfront mosque in Alexandria with a distinctive minaret.
+95,Mosque of Muhammad Ibn Qalaun,Cairo,religious,low,any,quiet,solo|couple,adult,1,4.3,Mamluk-era mosque-madrassa complex in the heart of Islamic Cairo.
+96,Aswan Nubian Mosque,Aswan,religious,low,any,quiet,family|solo,teen|adult|senior,1,4.0,Colorful Nubian-style mosque on the West Bank of the Nile in Aswan.
+97,Luxor Church of the Virgin,Luxor,religious,low,any,quiet,family|solo|couple,adult|senior,1,4.1,Ancient Coptic church believed to be on the route of the Holy Family.
+98,Ras Gharib Church,Ras Gharib,religious,low,any,quiet,solo|couple,adult|senior,1,3.9,Peaceful Coptic church overlooking the Red Sea in a small fishing town.
+99,Great Mosque of Tanta,Tanta,religious,low,any,moderate,family|solo,teen|adult|senior,1,4.2,"Major mosque in the Delta city of Tanta, site of Egypt's largest annual moulid."
+100,Sohag White Monastery,Sohag,religious,low,winter,quiet,solo|couple,adult|senior,2,4.2,5th century Coptic monastery built from blocks of a pharaonic temple.
+101,White Desert,Farafra,nature,medium,winter,quiet,solo|friends|couple,teen|adult,6,4.9,Surreal chalk-white rock formations in the Western Desert.
+102,Wadi El-Rayan,Fayoum,nature,low,winter,moderate,family|friends|couple,teen|adult,6,4.5,"Protected area with waterfalls, lakes, and wildlife in Fayoum."
+103,Ras Mohamed National Park,Sharm El-Sheikh,nature,medium,any,moderate,friends|couple|solo,teen|adult,6,4.7,Egypt's first national park with stunning coral reefs.
+104,Colored Canyon,South Sinai,nature,medium,winter,moderate,friends|couple|solo,teen|adult,4,4.6,Stunning narrow canyon with colorful rock formations in Sinai.
+105,Fayoum Oasis,Fayoum,nature,low,winter,quiet,family|couple|solo,teen|adult|senior,6,4.3,"Lush green oasis with ancient waterwheels, lakes, and fossils."
+106,Bahariya Oasis,Bahariya,nature,medium,winter,quiet,solo|friends|couple,adult,6,4.4,Gateway to the Black and White Deserts.
+107,Nile Cruise (Luxor–Aswan),Luxor,nature,high,winter,moderate,family|couple,adult|senior,6,4.8,Classic Nile cruise passing ancient temples and lush riverbanks.
+108,Lake Nasser,Aswan,nature,medium,winter,quiet,couple|solo|friends,adult,6,4.5,One of the world's largest man-made lakes with Nubian temples.
+109,Dakhla Oasis,Dakhla,nature,medium,winter,quiet,solo|couple|friends,adult,6,4.4,"Remote inner oasis with hot springs, mud-brick villages, and ancient ruins."
+110,Farafra Oasis,Farafra,nature,low,winter,quiet,solo|couple,adult,4,4.3,The smallest and most remote of Egypt's Western Desert oases.
+111,Wadi Degla Protectorate,Cairo,nature,low,winter,moderate,friends|family|couple,teen|adult,4,4.2,"Desert canyon nature reserve just outside Cairo, great for hiking and fossils."
+112,Petrified Forest Cairo,Cairo,nature,low,winter,quiet,solo|friends|couple,adult,2,4.0,35-million-year-old petrified forest hidden in the Cairo desert.
+113,Wadi El-Hitan (Whale Valley),Fayoum,nature,medium,winter,quiet,solo|couple|friends,adult,4,4.7,UNESCO World Heritage Site with 40-million-year-old whale fossils in the desert.
+114,Gebel Elba Biosphere,Halayeb,nature,medium,winter,quiet,solo|friends,adult,6,4.6,Egypt's most biodiverse area on the Red Sea coast near Sudan.
+115,El-Agouzain Bird Sanctuary,Aswan,nature,low,winter,quiet,solo|couple|friends,adult|senior,3,4.2,Nile island bird sanctuary with over 100 species of migratory birds.
+116,Zaranik Protectorate,North Sinai,nature,low,autumn,quiet,solo|couple,adult,4,4.1,Wetland bird migration hotspot on the Mediterranean coast of Sinai.
+117,Lake Qarun,Fayoum,nature,low,winter,moderate,family|couple|friends,teen|adult|senior,4,4.1,Ancient salt lake and major wintering area for migratory birds.
+118,Sinai Desert Stargazing,South Sinai,nature,medium,any,quiet,solo|couple|friends,teen|adult,4,4.8,Some of the darkest skies in the world for stargazing in the Sinai wilderness.
+119,Arous El-Bahar Mangroves,Marsa Alam,nature,low,any,quiet,solo|couple|friends,adult,3,4.3,"Ancient mangrove forest on the Red Sea coast, a nesting ground for rare birds."
+120,Ras Gharib Coral Garden,Ras Gharib,nature,medium,any,quiet,solo|couple|friends,adult,4,4.5,Pristine offshore reef with hard corals and pelagic fish rarely visited by tourists.
+121,Blue Hole Diving (Dahab),Dahab,adventure,medium,any,moderate,solo|friends|couple,teen|adult,6,4.8,"World-famous underwater sinkhole, one of the best dive sites globally."
+122,Mount Sinai Sunrise Hike,South Sinai,adventure,low,spring,moderate,solo|friends|couple,teen|adult,6,4.7,Midnight hike to Mount Sinai summit for a breathtaking sunrise.
+123,Hot Air Balloon over Luxor,Luxor,adventure,high,winter,moderate,couple|family|friends,teen|adult|senior,2,4.9,Magical sunrise balloon ride over the Valley of the Kings.
+124,Kitesurfing El-Gouna,Hurghada,adventure,high,any,moderate,solo|friends|couple,teen|adult,6,4.5,Egypt's kitesurfing capital with world-class wind conditions.
+125,Desert Safari (Western Desert),Cairo,adventure,medium,winter,quiet,solo|friends|couple,teen|adult,6,4.6,Multi-day safari with stargazing and sandboarding.
+126,Snorkeling Giftun Island,Hurghada,adventure,medium,any,moderate,family|friends|couple,teen|adult|senior,6,4.6,Protected coral reef island with vibrant marine life.
+127,Sandboarding in Siwa,Siwa,adventure,medium,winter,quiet,solo|friends|couple,teen|adult,3,4.4,Thrilling sandboarding down the Great Sand Sea dunes.
+128,Kayaking on the Nile Aswan,Aswan,adventure,low,winter,quiet,solo|friends|couple,teen|adult,3,4.3,Peaceful kayaking through Nile islands near Aswan.
+129,Rock Climbing in Sinai,South Sinai,adventure,medium,spring,quiet,solo|friends,teen|adult,6,4.4,World-class rock climbing in the Sinai granite mountains.
+130,Quad Biking Hurghada Desert,Hurghada,adventure,medium,winter,moderate,friends|couple|family,teen|adult,3,4.3,Thrilling quad bike rides through golden desert dunes.
+131,Wadi Rum-Style Sinai Safari,South Sinai,adventure,medium,winter,quiet,solo|couple|friends,teen|adult,6,4.5,Camel-and-jeep Bedouin safari through the dramatic Sinai desert landscape.
+132,Parasailing Sharm El-Sheikh,Sharm El-Sheikh,adventure,medium,any,moderate,friends|couple|family,teen|adult,2,4.2,Soar above Na'ama Bay with panoramic views of the Red Sea and Sinai mountains.
+133,Wadi Hammamat Hike,Qena,adventure,low,winter,quiet,solo|friends|couple,teen|adult,4,4.3,Ancient trade route through dramatic rock formations with pharaonic inscriptions.
+134,Nile Rafting Aswan,Aswan,adventure,medium,winter,moderate,friends|couple|family,teen|adult,3,4.4,White-water rafting through the Nile cataracts south of Aswan.
+135,Scuba Diving Marsa Alam,Marsa Alam,adventure,medium,any,quiet,solo|friends|couple,adult,6,4.7,"Pristine coral reefs with dugongs, dolphins, and hammerhead sharks."
+136,Windsurfing Hurghada,Hurghada,adventure,medium,any,moderate,solo|friends|couple,teen|adult,4,4.3,Consistent Red Sea winds make Hurghada a top windsurfing destination.
+137,Wadi Feiran Trekking,South Sinai,adventure,low,spring,quiet,solo|friends|couple,teen|adult,6,4.4,Trek through the largest oasis in Sinai with ancient palms and monastery ruins.
+138,Sea Kayaking Red Sea Islands,Hurghada,adventure,medium,any,quiet,solo|friends|couple,teen|adult,6,4.4,Kayak between uninhabited Red Sea islands with crystal-clear water.
+139,Dune Bashing Siwa,Siwa,adventure,medium,winter,quiet,friends|couple,teen|adult,3,4.3,Adrenaline-fueled 4x4 dune bashing in the Great Sand Sea.
+140,Night Dive Sharm El-Sheikh,Sharm El-Sheikh,adventure,high,any,moderate,solo|friends|couple,adult,3,4.8,"Night dive to see phosphorescent plankton, sleeping reef sharks, and octopus."
+141,Felucca Overnight Nile Trip,Aswan,adventure,low,winter,quiet,solo|friends|couple,teen|adult,6,4.6,Sleep under the stars on a traditional Nile sailboat between Aswan and Edfu.
+142,Surfing at Safaga,Hurghada,adventure,medium,any,moderate,solo|friends,teen|adult,4,4.2,Consistent wave breaks and thermal winds make Safaga a growing surf destination.
+143,ATV Desert Sinai,South Sinai,adventure,medium,winter,moderate,friends|couple|family,teen|adult,3,4.3,Off-road ATV adventure through Sinai desert canyons and Bedouin villages.
+144,Free Diving Dahab,Dahab,adventure,medium,any,quiet,solo|friends|couple,adult,4,4.7,World-class free diving courses and spots in Dahab's legendary Blue Hole.
+145,White Desert Camping,Farafra,adventure,medium,winter,quiet,solo|friends|couple,teen|adult,6,4.9,Overnight camp among the alien white chalk formations under a blanket of stars.
+146,Kite Surfing Ras Sidr,Ras Sidr,adventure,medium,any,moderate,solo|friends|couple,teen|adult,6,4.4,North Sinai kite surfing spot with consistent winds and flat water.
+147,Abseiling Wadi Rahaha,South Sinai,adventure,medium,spring,quiet,solo|friends,teen|adult,4,4.4,Rappel down Sinai granite cliffs beside the route Moses walked.
+148,Speedboat Red Sea Sharm,Sharm El-Sheikh,adventure,medium,any,moderate,friends|couple|family,teen|adult|senior,3,4.2,High-speed boat tour to the islands and snorkeling spots around Sharm.
+149,Paragliding over Luxor,Luxor,adventure,high,winter,quiet,solo|couple,teen|adult,2,4.6,Tandem paragliding over Luxor's temples and the Nile Valley.
+150,Cairo Tower Zip Line,Cairo,adventure,medium,any,moderate,friends|couple|family,teen|adult,2,4.1,Urban zip-line experience across Gezira Island with views of the Nile.
